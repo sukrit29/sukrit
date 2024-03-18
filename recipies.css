@@ -1,0 +1,93 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.heuy
+{
+    height: 80%;
+    width: 100%;
+    background-image: url(Welcome.jpeg);
+    background-size: cover;
+}
+.besanburfi
+{
+    height: 500px;
+    width: 500px;
+    background-image: url(Besan%20Burfi.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.bhelpuri
+{
+    height: 500px;
+    width: 500px;
+    background-image: url(bhelpuri.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.cake
+{
+    height: 500px;
+    width: 500px;
+    background-image: url(cake.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.golgappa
+{
+    height: 500px;
+    width: 500px;
+    background-image: url(golgappa.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.jalebi
+{
+    height: 550px;
+    width: 500px;
+    background-image: url(jalebi.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.khandvi
+{
+    height: 550px;
+    width: 500px;
+    background-image: url(khandvi.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.khatai
+{
+    height: 550px;
+    width: 500px;
+    background-image: url(Nankhatai.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.palakchaat
+{
+    height: 550px;
+    width: 500px;
+    background-image: url(palakchat.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
+.vadapav
+{
+    height: 550px;
+    width: 500px;
+    background-image: url(vadapav.jpeg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 500px;
+}
